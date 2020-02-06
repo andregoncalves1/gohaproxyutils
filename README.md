@@ -1,4 +1,4 @@
-# gohaproxyutils
+# GoHAProxyUtils
 Utils for the haproxy
 
 ## Update HAProxy Allowed IPs
