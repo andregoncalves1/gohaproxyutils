@@ -19,3 +19,7 @@ The IPs should be 1 per line. The spaces and "-" are removed so there is no need
 **Is the order guaranteed?**
 
 No. Since the order doesn't matter to the haproxy, this is not a problem.
+
+**How can I access the service?**
+
+Access [http://localhost:8080/](http://localhost:8080/) in a browser
